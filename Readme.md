@@ -51,7 +51,7 @@ src/
 
 ```bash
 git clone [repo-url]
-cd lovable-hero-section
+cd DMI assign
 npm install
 npm run dev
 Visit: http://localhost:5173
