@@ -3,7 +3,7 @@
 A modern, animated hero section for **DMI’s AI design platform**, built with **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 
 ## 🚀 Live Demo  
-[View Demo]() 
+[View Demo](https://dmi-hero-section-eight.vercel.app/) 
 ---
 
 ## 📁 Project Structure
